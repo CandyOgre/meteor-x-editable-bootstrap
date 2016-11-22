@@ -1,4 +1,4 @@
-meteor-x-editable
+[meteor-x-editable](https://atmospherejs.com/candyogre/x-editable-bootstrap)
 =================
 
 The [x-editable](http://vitalets.github.io/x-editable/) in-place editor with Twitter Bootstrap, repackaged for Meteor.
