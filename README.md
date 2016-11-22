@@ -19,7 +19,7 @@ textarea example
 #### template
 
     <p id="textArea" class="editable" data-type="textarea" data-placeholder="Enter text" data-emptytext="Click to enter text" data-rows="4">{{textAreaContent}}</p>
-    
+
 #### rendered callback
 
 The short answer:
@@ -33,10 +33,10 @@ The long answer: trying to use x-editable properly on Meteor 0.8 with reactive u
 
 version history
 ---------------
-#### 1.5.1
+#### 1.1.0
 
-- Updated to use BS3 build of x-editable 1.5.1.
+- Replace glyphicons with fontawesome icons.
 
-#### 1.4.6.2
+#### 1.0.0
 
-- Added example and updated readme to reflect operation under meteor 0.8.0+ (syntax is more simple with blaze)
+- Cloned [nate-strauser](https://github.com/nate-strauser/meteor-x-editable-bootstrap) repository

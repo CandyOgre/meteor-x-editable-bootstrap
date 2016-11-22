@@ -1,8 +1,8 @@
 Package.describe({
-  name: "natestrauser:x-editable-bootstrap",
+  name: "candyogre:x-editable-bootstrap",
   summary: "Latest version of X-Editable for Bootstrap with wysihtml5 rich text editor",
-  version: "1.5.2_4",
-  git: "https://github.com/nate-strauser/meteor-x-editable-bootstrap.git"
+  version: "1.1.0",
+  git: "https://github.com/candyogre/meteor-x-editable-bootstrap.git"
 });
 
 Package.on_use(function (api){
@@ -15,7 +15,7 @@ Package.on_use(function (api){
   // https://github.com/vitalets/x-editable/issues/395
   api.use("twbs:bootstrap@3.3.5", "client", { weak: true });
   api.use("nemo64:bootstrap@3.3.5_2", "client", { weak: true });
-  
+
   // Add FontAwesome for button icons
   api.use("fortawesome:fontawesome@4.4.0", "client", { weak: true });
 
