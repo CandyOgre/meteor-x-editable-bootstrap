@@ -3,6 +3,8 @@ meteor-x-editable
 
 The [x-editable](http://vitalets.github.io/x-editable/) in-place editor with Twitter Bootstrap, repackaged for Meteor.
 
+Cloned from [nate-strauser](https://github.com/nate-strauser/meteor-x-editable-bootstrap) in order to replace glyphicons package.
+
 # Install
 
 ```
